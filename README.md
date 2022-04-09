@@ -12,6 +12,27 @@ I also want to thank everyone who contributed, used and recommended Antibody ove
 Cheers,
 Carlos aka caarlos0.
 
+
+# Alternative Zsh Plugin Managers
+Alternatives to Antibody.
+
+## Comparisons
+- [zsh-bench: Conclusions](https://github.com/romkatv/zsh-bench#conclusions)
+  - [zsh4humans](https://github.com/romkatv/zsh4humans) is faster than anything else with comparable features
+- [Comparison of ZSH frameworks and plugin managers: Plugin Managers](https://gist.github.com/laggardkernel/4a4c4986ccdcaf47b91e8227f9868ded#plugin-managers)
+- [Zsh Plugin Standard: Adoption Status](https://digitalclouds.dev/docs/zsh/Zsh-Plugin-Standard.html#_adoption_status)
+- [outlines: Alternatives: Zsh plugin manager](https://outlines.readthedocs.io/en/latest/notes/alternatives.html)
+
+## Promissing
+- [Zsh for Humans](https://github.com/romkatv/zsh4humans)
+- [Zpm](https://github.com/zpm-zsh/zpm)
+- [Znap](https://github.com/marlonrichert/zsh-snap)
+- [zgenom](https://github.com/jandamm/zgenom)
+- [zshing](https://github.com/zakariaGatter/zshing)
+- [sheldon](https://github.com/rossmacarthur/sheldon)
+- [ZI](https://github.com/z-shell/zi)
+
+
 ---
 
 <p align="center">
